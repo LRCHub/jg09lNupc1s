@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "レディメイド",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-02T12:19:50.171706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レディメイド",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_レディメイド_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レディメイド - Readymade",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_レディメイド_-_Readymade_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レディメイド・シティライフ",
+      "artist": "Shibayan Records",
+      "has_synced": false,
+      "path": "select/03_レディメイド・シティライフ_Shibayan_Records.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レディメイド・シティライフ",
+      "artist": "milka",
+      "has_synced": false,
+      "path": "select/04_レディメイド・シティライフ_milka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "レディメイド・シティライフ",
+      "artist": "ShibayanRecords",
+      "has_synced": false,
+      "path": "select/05_レディメイド・シティライフ_ShibayanRecords.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "【Ado】レディメイド (Readymade)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_【Ado】レディメイド_(Readymade)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "レディメイド (\"Readymade\")",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_レディメイド_(_Readymade_)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "【Ado】レディメイド",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_【Ado】レディメイド_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Readymade (レディメイド)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_Readymade_(レディメイド)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レディメイド",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_レディメイド_Ado.txt"
+    }
+  ]
+}
